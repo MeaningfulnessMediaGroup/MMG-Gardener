@@ -1,6 +1,6 @@
 # The Gardener's Calculus: A Standardized Protocol for Mitigating Ontological Harm
 
-[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18294161-blue)](https://doi.org/10.5281/zenodo.18294161)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18294160-blue)](https://doi.org/10.5281/zenodo.18294160)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![Protocol Status](https://img.shields.io/badge/Status-Public%20Ethical%20Standard-green)](https://github.com/MeaningfulnessMediaGroup/Gardeners-Calculus)
 
@@ -102,7 +102,7 @@ Ethics is a collaborative discipline. We invite ethicists, psychologists, crisis
 
 If you utilize this framework in your research, policy, or practice, please cite it as follows:
 
-> Bee, D. (2026). *Compassionate Logic: Principles of Pragmatic Veracity and Ontological Stewardship. The "Gardener's Gambit" Methodology for Information Ethics*. Meaningfulness Media Group. Protocol ID: MMG-GARDENER-1.0. [https://10.5281/zenodo.18294161]
+> Bee, D. (2026). *Compassionate Logic: Principles of Pragmatic Veracity and Ontological Stewardship. The "Gardener's Gambit" Methodology for Information Ethics*. Meaningfulness Media Group. Protocol ID: MMG-GARDENER-1.0. [https://10.5281/zenodo.18294160]
 
 ---
 
