@@ -1,0 +1,4 @@
+Log_ID,Date_Logged,Steward_Name,Auditor_Name,Context_Category,Truth_Summary,Intervention_Type,Harm_Score_Total,Readiness_Score_Total,Sunset_Condition,Hard_Deadline,Aftercare_Plan_Ref,Debt_Status
+LOG-2026-001,3/10/2026,Dr. E. Vance,Ethics_Comm_Alpha,Public_Health,R0 value > 3.0 confirmed,Level 2 (Sequencing),9,4,Supply chain reinforced,3/24/2026,PLAN-PH-88,Paid
+LOG-2026-002,4/15/2026,M. Flores (CEO),Board_Risk_Comm,Corporate_Restructure,Role elimination (500 headcount),Level 5 (Compassionate Inaccuracy),8,2,Support/Severance portal active,5/1/2026,PLAN-HR-02,Active
+LOG-2026-003,6/1/2026,Sys_Admin_01,CISO_Office,Infrastructure_Security,Zero-day exploit in water grid,Level 4 (Strategic Withholding),10,1,Patch deployment verified,6/3/2026,PLAN-SEC-99,Paid
