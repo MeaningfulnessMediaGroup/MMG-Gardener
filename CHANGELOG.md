@@ -4,6 +4,13 @@ All notable changes to the **Gardener's Calculus (Compassionate Logic) Protocol*
 
 ---
 
+## [1.0.1] - 2026-01-24
+
+### Added
+- **Uses:** Added a new Appendix to illustrate use cases, applied scenarios for the Gardener's Calculus.
+
+---
+
 ## [1.0.0] - 2026-01-18
 
 ### Added
